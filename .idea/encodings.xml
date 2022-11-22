@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/KafkaApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/config/KafkaTopicConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/consumers/KafkaConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/controllers/TestController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/producers/KafkaProducer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/settings/TopicSettings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/kafka/templates/TopicSetting.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application-docker.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application-local.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.yml" charset="UTF-8" />
+  </component>
+</project>
